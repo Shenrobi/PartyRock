@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PartyRockApp/MainVC.swift"
+            timestampString = "494363656.545631"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MainVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.MainVC.partyRockVids.setter : Swift.Array&lt;PartyRockApp.PartyRock&gt;"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Development/Udemy/Mark%20Price%20iOS%2010/Apps/Core%20iOS/party-rock-tableviews/PartyRockApp/PartyRockApp/MainVC.swift"
+                  timestampString = "494367841.638607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.MainVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PartyRockApp.MainVC"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Development/Udemy/Mark%20Price%20iOS%2010/Apps/Core%20iOS/party-rock-tableviews/PartyRockApp/PartyRockApp/MainVC.swift"
+                  timestampString = "494367841.641021"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.MainVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PartyRockApp.MainVC&gt;"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Development/Udemy/Mark%20Price%20iOS%2010/Apps/Core%20iOS/party-rock-tableviews/PartyRockApp/PartyRockApp/MainVC.swift"
+                  timestampString = "494367841.643425"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
